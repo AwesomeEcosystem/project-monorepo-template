@@ -1,11 +1,13 @@
 <template>
-  <Container>
-    <Accounts/>
-  </Container>
+  <div class="text-white">
+    <Cover/>
+    <About/>
+    <Network/>
+    <Footer/>
+  </div>
 </template>
 
 <script>
-import Vue from 'vue'
 
 export default {
   layout: 'app',
