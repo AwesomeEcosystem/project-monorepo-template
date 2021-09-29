@@ -1,6 +1,4 @@
 {
-  "dependencies": {
-    "lerna": "^4.0.0"
-  },
-  "name": "ecosis-project-template"
+    "name": "ecosis-project-monorepo-template",
+    "version": "0.0.1"
 }

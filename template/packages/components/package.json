@@ -1,7 +1,7 @@
 {
-  "name": "@ecosis/components",
+  "name": "@{{ name }}/components",
   "version": "0.0.1",
-  "description": "Ready to Use VueJS Components for cunoro Apps",
+  "description": "Ready to Use VueJS Components for {{ name }} Apps",
   "main": "dist/components.ssr.js",
   "browser": "dist/components.esm.js",
   "module": "dist/components.esm.js",

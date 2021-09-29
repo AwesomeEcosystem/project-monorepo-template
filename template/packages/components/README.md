@@ -1,4 +1,4 @@
-# @enjine/components
+# @{{ name }}/components
 
 ## Project setup
 ```

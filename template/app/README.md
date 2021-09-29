@@ -1,4 +1,4 @@
-# cunoro.app
+# {{ name }}.app
 
 ## Build Setup
 

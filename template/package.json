@@ -1,0 +1,7 @@
+{
+  "scripts": {},
+  "dependencies": {
+    "lerna": "^4.0.0"
+  },
+  "name": "{{ name }}-monorepo"
+}
